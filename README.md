@@ -16,11 +16,9 @@ Some methodes were developed to reconstruct tomographic images. Tomographic reco
 
 There are also many tools for image processing (contrast, thresholding...).
 
-This software was developed with C# language. It use .Net framework 3.0 or later on windows environment (xp or later).
+This software was developed with C# language. It use .Net framework 3.5 or later on windows environment (xp or later).
 
-In this repository, you can just found .exe and some other files related to the software. these files are located in "utilitaire" directory.
-
-Code files of this software will be shared very soon...
+In this repository, you can just found .exe and some other files related to the software. these files are located in "utilitaire" directory. In « lib_image » directory, you can found some real medical images (DICOM extension).
 
 If you found some difficulty to use this software or you need some image file to open them and do tomography reconstruction you can contact me on these adress:
 
